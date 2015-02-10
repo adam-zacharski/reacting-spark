@@ -1,0 +1,5 @@
+http://blog.giantswarm.io/getting-started-with-java-development-on-docker
+https://cdnjs.com/
+http://getbootstrap.com/examples/navbar-static-top/
+http://sparkjava.com/documentation.html
+http://facebook.github.io/react/tips/initial-ajax.html
